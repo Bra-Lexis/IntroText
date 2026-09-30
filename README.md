@@ -3,6 +3,41 @@ GBC COMP-1238 Course - Intro to Data Management.
 
 See the [summaries/](/summaries/) folder for lecture note summaries by week.
 
+## Keyboard shortcuts
+Shortcuts I frequently use: 
+- Ctrl-C (copy)
+- Ctrl-A (Select all content in a window or document)
+- Ctrl-Y (Redo an action)
+- Ctrl-V (paste)
+- Ctrl-Z (undo)
+- Alt-Tab (Switch between open apps)
+- Ctrl-X (Cut selected text or items)
+
+Shortcuts I would like to start using: 
+- Ctrl-A (select all)
+- Win-D (show desktop)
+- Win-I (Open the Settings menu)
+- Wind-E (Open File Explorer)
+- Super-Hyper-Meta-F (I don’t have those midifier keys, but it sounds impressive)
+
+## Search Experiments
+Try searching for the word "line"
+
+```
+Line
+line
+lines
+line 5
+line-7
+line72TODO
+line73.4
+end of line
+end-of-line
+outline
+linear
+```
+
+
 
 # Videos and links by subject
 
@@ -102,6 +137,11 @@ See the [summaries/](/summaries/) folder for lecture note summaries by week.
 
 ## Learning Techniques 
 - [Quick overview of the 3C method](https://www.youtube.com/watch?v=npQ2IORdlvU) - by theMITmonk
+
+## More Resources
+
+Check out the [Useful Resources](links.md) page for useful links.
+
 
 ## Ergnonomics
 - [Powerlifting as back pain prevention](https://www.youtube.com/watch?v=WxN9VzwoGGw) - by No Boilerplate
